@@ -8,7 +8,7 @@ The proposed solution focuses on optimizing the supply chain using a combination
 
 ## Our Key Features
 
-### Blockchain
+### Supply based Features
 
 #### Decentralized Marketplace for Local Suppliers
 - **Description**: Create a decentralized platform where local suppliers can list their products directly to Walmart.
@@ -25,8 +25,6 @@ The proposed solution focuses on optimizing the supply chain using a combination
 #### Blockchain-Enabled Dynamic Pricing Based on Local Market Conditions
 - **Description**: Implement blockchain to create dynamic pricing models based on real-time local market conditions.
 - **Benefits**: Ensures competitive pricing, enhances transparency, and improves customer satisfaction.
-
-### AI/ML
 
 #### AI-Driven Route Optimization
 - **Description**: Use AI to optimize delivery routes based on real-time traffic data, weather conditions, and delivery priorities.
@@ -56,7 +54,7 @@ The proposed solution focuses on optimizing the supply chain using a combination
 - **Description**: Use AI to implement dynamic pricing strategies that adapt to market conditions and demand patterns.
 - **Benefits**: Maximizes revenue, ensures competitive pricing, and improves market responsiveness.
 
-### Demand Features
+### Demand based Features
 
 #### Real-Time Weather Data Integration for Supply Chain Adjustments
 - **Description**: Integrate real-time weather data using blockchain to adjust supply chain activities accordingly.
