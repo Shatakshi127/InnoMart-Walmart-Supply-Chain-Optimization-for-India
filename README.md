@@ -75,3 +75,9 @@ The proposed solution focuses on optimizing the supply chain using a combination
 #### Multilingual Customer Support
 - **Description**: Deploy AI-powered real-time translation tools to provide customer support in multiple local languages.
 - **Benefits**: Enhances customer service, caters to diverse linguistic demographics, and improves accessibility.
+
+
+
+
+https://github.com/user-attachments/assets/87561bb9-eb1f-41b4-9290-5590e0f2d48a
+
